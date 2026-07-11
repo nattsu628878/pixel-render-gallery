@@ -1,0 +1,172 @@
+[
+	{
+		"colors": "6段/ch",
+		"dither": "Bayer4x4 0.6",
+		"file": "01_baseline.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "4段",
+		"title": "ベースライン"
+	},
+	{
+		"colors": "6段/ch",
+		"dither": "なし",
+		"file": "02_nodither.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "4段",
+		"title": "ディザなし"
+	},
+	{
+		"colors": "6段/ch",
+		"dither": "Bayer4x4 1.0",
+		"file": "03_dither_full.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "4段",
+		"title": "ディザ最大"
+	},
+	{
+		"colors": "6段/ch",
+		"dither": "Bayer2x2 0.7",
+		"file": "04_bayer2.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "4段",
+		"title": "Bayer 2x2"
+	},
+	{
+		"colors": "6段/ch",
+		"dither": "Bayer8x8 0.7",
+		"file": "05_bayer8.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "4段",
+		"title": "Bayer 8x8"
+	},
+	{
+		"colors": "3段/ch",
+		"dither": "Bayer4x4 0.6",
+		"file": "06_colors3.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "4段",
+		"title": "色数 3段"
+	},
+	{
+		"colors": "16段/ch",
+		"dither": "Bayer4x4 0.4",
+		"file": "07_colors16.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "4段",
+		"title": "色数 16段"
+	},
+	{
+		"colors": "6段/ch",
+		"dither": "Bayer4x4 0.6",
+		"file": "08_res160.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "160x90",
+		"shading": "4段",
+		"title": "160x90 粗い"
+	},
+	{
+		"colors": "6段/ch",
+		"dither": "Bayer4x4 0.6",
+		"file": "09_res480.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "480x270",
+		"shading": "4段",
+		"title": "480x270 細かい"
+	},
+	{
+		"colors": "6段/ch",
+		"dither": "Bayer4x4 0.6",
+		"file": "10_bands2.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "2段",
+		"title": "陰影 2段"
+	},
+	{
+		"colors": "6段/ch",
+		"dither": "Bayer4x4 0.6",
+		"file": "11_smooth.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "なめらか",
+		"title": "陰影 なめらか"
+	},
+	{
+		"colors": "6段/ch",
+		"dither": "Bayer4x4 0.6",
+		"file": "12_outline.png",
+		"outline": "あり",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "4段",
+		"title": "アウトライン"
+	},
+	{
+		"colors": "3段/ch",
+		"dither": "Bayer4x4 0.5",
+		"file": "13_outline_lo.png",
+		"outline": "あり",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "3段",
+		"title": "アウトライン+3段"
+	},
+	{
+		"colors": "GameBoy",
+		"dither": "Bayer4x4 0.7",
+		"file": "14_gameboy.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "3段",
+		"title": "Game Boy パレット"
+	},
+	{
+		"colors": "CGA",
+		"dither": "Bayer4x4 0.7",
+		"file": "15_cga.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "4段",
+		"title": "CGA パレット"
+	},
+	{
+		"colors": "PICO-8",
+		"dither": "Bayer4x4 0.5",
+		"file": "16_pico8.png",
+		"outline": "なし",
+		"proj": "オルソ",
+		"res": "320x180",
+		"shading": "4段",
+		"title": "PICO-8 パレット"
+	},
+	{
+		"colors": "6段/ch",
+		"dither": "Bayer4x4 0.6",
+		"file": "17_perspective.png",
+		"outline": "なし",
+		"proj": "透視",
+		"res": "320x180",
+		"shading": "4段",
+		"title": "透視投影カメラ"
+	}
+]
